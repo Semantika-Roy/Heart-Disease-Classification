@@ -1,2 +1,2 @@
-# Heart Disease Classification
-Analysis of clinical Heart Disease data and its classification using Machine Learning algorithms
+# Heart Disease Prediction
+Analysis of clinical Heart Disease data and its prediction using Machine Learning algorithms
